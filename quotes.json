@@ -1,17 +1,244 @@
-[
-  {
-    "id": 1,
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs"
-  },
-  {
-    "id": 2,
-    "quote": "Life is what happens when you're busy making other plans.",
-    "author": "John Lennon"
-  },
-  {
-    "id": 3,
-    "quote": "Do not watch the clock. Do what it does. Keep going.",
-    "author": "Sam Levenson"
-  }
-]
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 2,
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "id": 3,
+      "text": "Do not watch the clock. Do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "id": 4,
+      "text": "Keep your eyes on the stars, and your feet on the ground.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 5,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 6,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 7,
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "id": 8,
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 9,
+      "text": "Get busy living or get busy dying.",
+      "author": "Stephen King"
+    },
+    {
+      "id": 10,
+      "text": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West"
+    },
+    {
+      "id": 11,
+      "text": "In the end, we only regret the chances we didn’t take.",
+      "author": "Lewis Carroll"
+    },
+    {
+      "id": 12,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 13,
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 14,
+      "text": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 15,
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "id": 16,
+      "text": "You miss 100% of the shots you don’t take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "id": 17,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 18,
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 19,
+      "text": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 20,
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama"
+    },
+    {
+      "id": 21,
+      "text": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 22,
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James"
+    },
+    {
+      "id": 23,
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 24,
+      "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+      "author": "William Butler Yeats"
+    },
+    {
+      "id": 25,
+      "text": "We can’t help everyone, but everyone can help someone.",
+      "author": "Ronald Reagan"
+    },
+    {
+      "id": 26,
+      "text": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": 27,
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 28,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 29,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha"
+    },
+    {
+      "id": 30,
+      "text": "Everything you’ve ever wanted is on the other side of fear.",
+      "author": "George Addair"
+    },
+    {
+      "id": 31,
+      "text": "Opportunities don't happen. You create them.",
+      "author": "Chris Grosser"
+    },
+    {
+      "id": 32,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "id": 33,
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "id": 34,
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "id": 35,
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 36,
+      "text": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington"
+    },
+    {
+      "id": 37,
+      "text": "We don’t make movies to make money, we make money to make more movies.",
+      "author": "Walt Disney"
+    },
+    {
+      "id": 38,
+      "text": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 39,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 40,
+      "text": "What we achieve inwardly will change outer reality.",
+      "author": "Plutarch"
+    },
+    {
+      "id": 41,
+      "text": "Your limitation—it’s only your imagination.",
+      "author": "Unknown"
+    },
+    {
+      "id": 42,
+      "text": "Push yourself, because no one else is going to do it for you.",
+      "author": "Unknown"
+    },
+    {
+      "id": 43,
+      "text": "Great things never come from comfort zones.",
+      "author": "Unknown"
+    },
+    {
+      "id": 44,
+      "text": "Dream it. Wish it. Do it.",
+      "author": "Unknown"
+    },
+    {
+      "id": 45,
+      "text": "Success doesn’t just find you. You have to go out and get it.",
+      "author": "Unknown"
+    },
+    {
+      "id": 46,
+      "text": "The harder you work for something, the greater you’ll feel when you achieve it.",
+      "author": "Unknown"
+    },
+    {
+      "id": 47,
+      "text": "Dream bigger. Do bigger.",
+      "author": "Unknown"
+    },
+    {
+      "id": 48,
+      "text": "My unmatched perspicacity coupled with my sheer indefatigability makes me a feared opponent in any realm of human endeavor.",
+      "author": "Andrew Tate"
+    }
+  ]
+}
